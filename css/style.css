@@ -161,6 +161,10 @@ h6 {
     font-weight: 500;
     font-size: var(--small);
 }
+
+.form-check-input {
+    border: 1px solid var(--secondary);
+}
 /* Common CSS End */
 
 .main-header {
